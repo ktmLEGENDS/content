@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Akansha Theme",
+  "version": "1.0",
+  "theme": {
+    "images": {
+      "theme_frame": "heart.png",
+      "theme_frame_inactive": "heart.png"
+    },
+    "colors": {
+      "ntp_background": "#ffffff"
+    },
+    "tints": {
+      "buttons": [0, 0, 0.6]
+    }
+  }
+}
